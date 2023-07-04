@@ -17,5 +17,4 @@ time_label.pack(padx=50, pady=50)
 # Inicia a atualização da hora
 hora_atual()
 
-# Inicia o loop principal da janela
 window.mainloop()
